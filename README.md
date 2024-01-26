@@ -75,6 +75,10 @@ This documentation provides an overview of the backend development assignment fo
 ### Error Handling
 - Custom error handler for handling 404 (Not Found) errors.
 
+## AWS Deployment
+
+The backend application has been deployed on Amazon Web Services (AWS), and it can be accessed through the following link: [FarmwiseAI Backend](https://35.154.97.191:8080/).
+
 ## Usage
 
 - Run the provided Flask application to start the server.
@@ -83,4 +87,4 @@ This documentation provides an overview of the backend development assignment fo
 
 ## Conclusion
 
-This backend development assignment demonstrates the implementation of a RESTful API using Flask, SQLAlchemy, and other related libraries. It provides a foundation for building a secure and scalable backend system for managing books.
+This backend development assignment demonstrates the implementation of a RESTful API using Flask, SQLAlchemy, and other related libraries. It provides a foundation for building a secure and scalable backend system for managing books. The deployment on AWS enhances accessibility and availability through the provided link.
