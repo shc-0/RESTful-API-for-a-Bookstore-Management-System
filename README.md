@@ -1,4 +1,4 @@
-# FarmwiseAI's Backend Developer Assignment Documentation
+# RESTful API for a Bookstore Management System Documentation
 
 ## Introduction
 
