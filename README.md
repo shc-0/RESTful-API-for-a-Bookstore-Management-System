@@ -77,7 +77,7 @@ This documentation provides an overview of the backend development. The assignme
 
 ## AWS Deployment
 
-The backend application has been deployed on Amazon Web Services (AWS), and it can be accessed through the following link: [FarmwiseAI Backend](https://35.154.97.191:8080/).
+The backend application has been deployed on Amazon Web Services (AWS), and it can be accessed through the [link](https://35.154.97.191:8080/).
 
 ## Usage
 
