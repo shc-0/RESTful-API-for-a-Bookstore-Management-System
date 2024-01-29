@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This documentation provides an overview of the backend development assignment for FarmwiseAI. The assignment is structured into several modules, each contributing to the development of a backend system. The modules include System Modules, Code Base Modules, DBMS Model, and APIs.
+This documentation provides an overview of the backend development. The assignment is structured into several modules, each contributing to the development of a backend system. The modules include System Modules, Code Base Modules, DBMS Model, and APIs.
 
 ## System Modules
 
